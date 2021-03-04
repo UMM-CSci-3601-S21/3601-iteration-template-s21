@@ -8,6 +8,7 @@
 >
 > Feel free to remove the badge above and this text when you've
 > dealt with that.
+
 # CSCI 3601 Iteration Template <!-- omit in toc -->
 
 [![Server Build Status](../../actions/workflows/server.yml/badge.svg)](../../actions/workflows/server.yml)
